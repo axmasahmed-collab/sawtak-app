@@ -1,0 +1,1 @@
+package com.example.sawtak\nimport io.flutter.embedding.android.FlutterActivity\nclass MainActivity: FlutterActivity()\n
